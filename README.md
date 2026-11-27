@@ -4,8 +4,8 @@ Backend developer from Suez, Egypt. B.Sc. in Software Engineering, Tomsk State U
 I build the backends that businesses run on, and I care about the boring parts that keep them running:
 roles and permissions, tests, backups, and safe deployments.
 
-**Currently:** ASP.NET Core APIs · learning Azure (AZ-204 path)
-**Languages:** Arabic (native) · English · Russian
+- **Currently:** ASP.NET Core APIs · learning Azure (AZ-204 path)
+- **Languages:** Arabic (native) · English · Russian
 
 ### Featured work
 
